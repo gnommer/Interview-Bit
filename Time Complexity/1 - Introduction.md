@@ -88,7 +88,7 @@ where $c = c2+c3$ and $c' = c1 + c2 + c4$
 
 this is a linear function as its proportional to $n$
 
-Comparision of Time complexities
+## Comparision of Time complexities
 
 $T_{sum} = k$
 
